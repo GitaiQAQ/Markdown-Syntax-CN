@@ -42,7 +42,7 @@ Markdown 语法说明 (简体中文版) / ([点击查看快速入门](./basic.ht
 
 * * *
 
-<h2 name="overview">概述</h2>
+<p name="overview">概述</p>
 
 <h3 id="philosophy">宗旨</h3>
 
